@@ -1,2 +1,5 @@
 # Hello-world
-Just another repository
+
+Hi humans!
+
+Hubot is here/ I like npde.js and Coffeescripts 
